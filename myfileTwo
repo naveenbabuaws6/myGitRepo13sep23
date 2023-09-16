@@ -1,2 +1,6 @@
 this is myfile Two
+<<<<<<< HEAD
 2nd line 
+=======
+
+>>>>>>> 033d447e364244d3366bfd6b7c71e4f1ba837e49
